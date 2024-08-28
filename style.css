@@ -1,0 +1,8 @@
+:root {
+    --cor-da-fonte: rgb(100, 198, 237);
+--cor-do-fundo: rgb(15, 15, 15);
+}
+body {
+    color: var(--cor-da-fonte);
+    background-color: var(--cor-do-fundo);
+}
